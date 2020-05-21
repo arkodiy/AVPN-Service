@@ -1,0 +1,8 @@
+C:\Users\Аркадий\source\repos\AVPN\AVPN\obj\Debug\AVPN.csprojAssemblyReference.cache
+C:\Users\Аркадий\source\repos\AVPN\AVPN\obj\Debug\AVPN.AVPN.resources
+C:\Users\Аркадий\source\repos\AVPN\AVPN\obj\Debug\AVPN.csproj.GenerateResource.cache
+C:\Users\Аркадий\source\repos\AVPN\AVPN\obj\Debug\AVPN.csproj.CoreCompileInputs.cache
+C:\Users\Аркадий\source\repos\AVPN\AVPN\bin\Debug\AVPN.exe
+C:\Users\Аркадий\source\repos\AVPN\AVPN\bin\Debug\AVPN.pdb
+C:\Users\Аркадий\source\repos\AVPN\AVPN\obj\Debug\AVPN.exe
+C:\Users\Аркадий\source\repos\AVPN\AVPN\obj\Debug\AVPN.pdb

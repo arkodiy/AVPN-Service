@@ -1,0 +1,713 @@
+[20200506-17:30:02] - Service has been started
+[20200506-17:30:02] - VPN connection name set to: vpn2.fortum.ru_2
+[20200506-17:30:02] - Check interval not set. Use default value (ms): 10000
+[20200506-17:30:02] - Maximum log size not set. Use to default value (byte): 2000000
+[20200506-17:30:03] - CheckHost address not set! Computer not joined to domain. Set checkhost using parametr -checkhost
+[20200506-17:30:13] - 10000 ms elapsed.
+[20200506-17:30:13] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:30:13] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:30:13] - Ping host "" fail
+[20200506-17:30:13] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:30:13] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:30:13] - Try connect to net service
+[20200506-17:30:15] - Connect to net service error: The operation has timed out.
+[20200506-17:30:15] - 
+[20200506-17:30:23] - 10000 ms elapsed.
+[20200506-17:30:23] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:30:23] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:30:23] - Ping host "" fail
+[20200506-17:30:23] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:30:23] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:30:23] - Try connect to net service
+[20200506-17:30:25] - Connect to net service error: The operation has timed out.
+[20200506-17:30:25] - 
+[20200506-17:30:33] - 10000 ms elapsed.
+[20200506-17:30:33] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:30:33] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:30:33] - Ping host "" fail
+[20200506-17:30:33] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:30:33] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:30:33] - Try connect to net service
+[20200506-17:30:35] - Connect to net service error: The operation has timed out.
+[20200506-17:30:35] - 
+[20200506-17:30:43] - 10000 ms elapsed.
+[20200506-17:30:43] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:30:43] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:30:43] - Ping host "" fail
+[20200506-17:30:43] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:30:43] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:30:43] - Try connect to net service
+[20200506-17:30:45] - Connect to net service error: The operation has timed out.
+[20200506-17:30:45] - 
+[20200506-17:30:53] - 10000 ms elapsed.
+[20200506-17:30:53] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:30:53] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:30:53] - Ping host "" fail
+[20200506-17:30:53] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:30:53] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:30:53] - Try connect to net service
+[20200506-17:30:55] - Connect to net service error: The operation has timed out.
+[20200506-17:30:55] - 
+[20200506-17:31:03] - 10000 ms elapsed.
+[20200506-17:31:03] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:31:03] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:31:03] - Ping host "" fail
+[20200506-17:31:03] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:31:03] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:31:03] - Try connect to net service
+[20200506-17:31:05] - Connect to net service error: The operation has timed out.
+[20200506-17:31:05] - 
+[20200506-17:31:09] - Service has been stopped.
+[20200506-17:43:09] - Service has been started
+[20200506-17:43:09] - VPN connection name set to: vpn2.fortum.ru_2
+[20200506-17:43:09] - Check interval not set. Use default value (ms): 10000
+[20200506-17:43:09] - Maximum log size not set. Use to default value (byte): 2000000
+[20200506-17:43:09] - CheckHost address not set! Computer not joined to domain. Set checkhost using parametr -checkhost
+[20200506-17:43:19] - 10000 ms elapsed.
+[20200506-17:43:19] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:43:19] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:43:19] - Ping host "" fail
+[20200506-17:43:19] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:43:19] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:43:19] - Try connect to net service
+[20200506-17:43:21] - Connect to net service error: The operation has timed out.
+[20200506-17:43:21] - 
+[20200506-17:43:24] - Service has been stopped.
+[20200506-17:55:24] - Service has been started
+[20200506-17:55:24] - VPN connection name set to: vpn2.fortum.ru_2
+[20200506-17:55:24] - Check interval not set. Use default value (ms): 10000
+[20200506-17:55:24] - Maximum log size not set. Use to default value (byte): 2000000
+[20200506-17:55:24] - CheckHost address not set! Computer not joined to domain. Set checkhost using parametr -checkhost
+[20200506-17:55:34] - 10000 ms elapsed.
+[20200506-17:55:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:55:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:55:35] - Ping host "" fail
+[20200506-17:55:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:55:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:55:35] - Try connect to net service
+[20200506-17:55:37] - Connect to net service error: The operation has timed out.
+[20200506-17:55:37] - 
+[20200506-17:55:44] - 10000 ms elapsed.
+[20200506-17:55:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:55:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:55:45] - Ping host "" fail
+[20200506-17:55:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:55:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:55:45] - Try connect to net service
+[20200506-17:55:47] - Connect to net service error: The operation has timed out.
+[20200506-17:55:47] - 
+[20200506-17:55:54] - 10000 ms elapsed.
+[20200506-17:55:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:55:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:55:55] - Ping host "" fail
+[20200506-17:55:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:55:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:55:55] - Try connect to net service
+[20200506-17:55:57] - Connect to net service error: The operation has timed out.
+[20200506-17:55:57] - 
+[20200506-17:56:04] - 10000 ms elapsed.
+[20200506-17:56:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:56:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:56:05] - Ping host "" fail
+[20200506-17:56:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:56:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:56:05] - Try connect to net service
+[20200506-17:56:07] - Connect to net service error: The operation has timed out.
+[20200506-17:56:07] - 
+[20200506-17:56:14] - 10000 ms elapsed.
+[20200506-17:56:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:56:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:56:15] - Ping host "" fail
+[20200506-17:56:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:56:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:56:15] - Try connect to net service
+[20200506-17:56:17] - Connect to net service error: The operation has timed out.
+[20200506-17:56:17] - 
+[20200506-17:56:24] - 10000 ms elapsed.
+[20200506-17:56:24] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:56:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:56:25] - Ping host "" fail
+[20200506-17:56:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:56:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:56:25] - Try connect to net service
+[20200506-17:56:27] - Connect to net service error: The operation has timed out.
+[20200506-17:56:27] - 
+[20200506-17:56:34] - 10000 ms elapsed.
+[20200506-17:56:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:56:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:56:35] - Ping host "" fail
+[20200506-17:56:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:56:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:56:35] - Try connect to net service
+[20200506-17:56:37] - Connect to net service error: The operation has timed out.
+[20200506-17:56:37] - 
+[20200506-17:56:44] - 10000 ms elapsed.
+[20200506-17:56:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:56:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:56:45] - Ping host "" fail
+[20200506-17:56:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:56:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:56:45] - Try connect to net service
+[20200506-17:56:47] - Connect to net service error: The operation has timed out.
+[20200506-17:56:47] - 
+[20200506-17:56:54] - 10000 ms elapsed.
+[20200506-17:56:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:56:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:56:55] - Ping host "" fail
+[20200506-17:56:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:56:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:56:55] - Try connect to net service
+[20200506-17:56:57] - Connect to net service error: The operation has timed out.
+[20200506-17:56:57] - 
+[20200506-17:57:04] - 10000 ms elapsed.
+[20200506-17:57:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:57:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:57:05] - Ping host "" fail
+[20200506-17:57:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:57:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:57:05] - Try connect to net service
+[20200506-17:57:07] - Connect to net service error: The operation has timed out.
+[20200506-17:57:07] - 
+[20200506-17:57:14] - 10000 ms elapsed.
+[20200506-17:57:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:57:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:57:15] - Ping host "" fail
+[20200506-17:57:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:57:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:57:15] - Try connect to net service
+[20200506-17:57:17] - Connect to net service error: The operation has timed out.
+[20200506-17:57:17] - 
+[20200506-17:57:24] - 10000 ms elapsed.
+[20200506-17:57:24] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:57:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:57:25] - Ping host "" fail
+[20200506-17:57:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:57:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:57:25] - Try connect to net service
+[20200506-17:57:27] - Connect to net service error: The operation has timed out.
+[20200506-17:57:27] - 
+[20200506-17:57:34] - 10000 ms elapsed.
+[20200506-17:57:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:57:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:57:35] - Ping host "" fail
+[20200506-17:57:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:57:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:57:35] - Try connect to net service
+[20200506-17:57:37] - Connect to net service error: The operation has timed out.
+[20200506-17:57:37] - 
+[20200506-17:57:44] - 10000 ms elapsed.
+[20200506-17:57:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:57:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:57:45] - Ping host "" fail
+[20200506-17:57:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:57:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:57:45] - Try connect to net service
+[20200506-17:57:47] - Connect to net service error: The operation has timed out.
+[20200506-17:57:47] - 
+[20200506-17:57:54] - 10000 ms elapsed.
+[20200506-17:57:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:57:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:57:55] - Ping host "" fail
+[20200506-17:57:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:57:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:57:55] - Try connect to net service
+[20200506-17:57:57] - Connect to net service error: The operation has timed out.
+[20200506-17:57:57] - 
+[20200506-17:58:04] - 10000 ms elapsed.
+[20200506-17:58:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:58:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:58:05] - Ping host "" fail
+[20200506-17:58:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:58:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:58:05] - Try connect to net service
+[20200506-17:58:07] - Connect to net service error: The operation has timed out.
+[20200506-17:58:07] - 
+[20200506-17:58:14] - 10000 ms elapsed.
+[20200506-17:58:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:58:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:58:15] - Ping host "" fail
+[20200506-17:58:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:58:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:58:15] - Try connect to net service
+[20200506-17:58:17] - Connect to net service error: The operation has timed out.
+[20200506-17:58:17] - 
+[20200506-17:58:24] - 10000 ms elapsed.
+[20200506-17:58:24] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:58:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:58:25] - Ping host "" fail
+[20200506-17:58:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:58:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:58:25] - Try connect to net service
+[20200506-17:58:27] - Connect to net service error: The operation has timed out.
+[20200506-17:58:27] - 
+[20200506-17:58:34] - 10000 ms elapsed.
+[20200506-17:58:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:58:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:58:35] - Ping host "" fail
+[20200506-17:58:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:58:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:58:35] - Try connect to net service
+[20200506-17:58:37] - Connect to net service error: The operation has timed out.
+[20200506-17:58:37] - 
+[20200506-17:58:44] - 10000 ms elapsed.
+[20200506-17:58:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:58:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:58:45] - Ping host "" fail
+[20200506-17:58:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:58:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:58:45] - Try connect to net service
+[20200506-17:58:47] - Connect to net service error: The operation has timed out.
+[20200506-17:58:47] - 
+[20200506-17:58:54] - 10000 ms elapsed.
+[20200506-17:58:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:58:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:58:55] - Ping host "" fail
+[20200506-17:58:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:58:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:58:55] - Try connect to net service
+[20200506-17:58:57] - Connect to net service error: The operation has timed out.
+[20200506-17:58:57] - 
+[20200506-17:59:04] - 10000 ms elapsed.
+[20200506-17:59:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:59:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:59:05] - Ping host "" fail
+[20200506-17:59:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:59:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:59:05] - Try connect to net service
+[20200506-17:59:07] - Connect to net service error: The operation has timed out.
+[20200506-17:59:07] - 
+[20200506-17:59:14] - 10000 ms elapsed.
+[20200506-17:59:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:59:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:59:15] - Ping host "" fail
+[20200506-17:59:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:59:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:59:15] - Try connect to net service
+[20200506-17:59:17] - Connect to net service error: The operation has timed out.
+[20200506-17:59:17] - 
+[20200506-17:59:24] - 10000 ms elapsed.
+[20200506-17:59:24] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:59:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:59:25] - Ping host "" fail
+[20200506-17:59:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:59:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:59:25] - Try connect to net service
+[20200506-17:59:27] - Connect to net service error: The operation has timed out.
+[20200506-17:59:27] - 
+[20200506-17:59:34] - 10000 ms elapsed.
+[20200506-17:59:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:59:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:59:35] - Ping host "" fail
+[20200506-17:59:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:59:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:59:35] - Try connect to net service
+[20200506-17:59:37] - Connect to net service error: The operation has timed out.
+[20200506-17:59:37] - 
+[20200506-17:59:44] - 10000 ms elapsed.
+[20200506-17:59:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:59:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:59:45] - Ping host "" fail
+[20200506-17:59:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:59:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:59:45] - Try connect to net service
+[20200506-17:59:47] - Connect to net service error: The operation has timed out.
+[20200506-17:59:47] - 
+[20200506-17:59:54] - 10000 ms elapsed.
+[20200506-17:59:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-17:59:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-17:59:55] - Ping host "" fail
+[20200506-17:59:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-17:59:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-17:59:55] - Try connect to net service
+[20200506-17:59:57] - Connect to net service error: The operation has timed out.
+[20200506-17:59:57] - 
+[20200506-18:00:04] - 10000 ms elapsed.
+[20200506-18:00:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:00:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:00:05] - Ping host "" fail
+[20200506-18:00:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:00:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:00:05] - Try connect to net service
+[20200506-18:00:07] - Connect to net service error: The operation has timed out.
+[20200506-18:00:07] - 
+[20200506-18:00:14] - 10000 ms elapsed.
+[20200506-18:00:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:00:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:00:15] - Ping host "" fail
+[20200506-18:00:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:00:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:00:15] - Try connect to net service
+[20200506-18:00:17] - Connect to net service error: The operation has timed out.
+[20200506-18:00:17] - 
+[20200506-18:00:24] - 10000 ms elapsed.
+[20200506-18:00:24] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:00:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:00:25] - Ping host "" fail
+[20200506-18:00:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:00:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:00:25] - Try connect to net service
+[20200506-18:00:27] - Connect to net service error: The operation has timed out.
+[20200506-18:00:27] - 
+[20200506-18:00:34] - 10000 ms elapsed.
+[20200506-18:00:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:00:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:00:35] - Ping host "" fail
+[20200506-18:00:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:00:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:00:35] - Try connect to net service
+[20200506-18:00:37] - Connect to net service error: The operation has timed out.
+[20200506-18:00:37] - 
+[20200506-18:00:44] - 10000 ms elapsed.
+[20200506-18:00:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:00:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:00:45] - Ping host "" fail
+[20200506-18:00:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:00:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:00:45] - Try connect to net service
+[20200506-18:00:47] - Connect to net service error: The operation has timed out.
+[20200506-18:00:47] - 
+[20200506-18:00:54] - 10000 ms elapsed.
+[20200506-18:00:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:00:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:00:55] - Ping host "" fail
+[20200506-18:00:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:00:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:00:55] - Try connect to net service
+[20200506-18:00:57] - Connect to net service error: The operation has timed out.
+[20200506-18:00:57] - 
+[20200506-18:01:04] - 10000 ms elapsed.
+[20200506-18:01:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:01:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:01:05] - Ping host "" fail
+[20200506-18:01:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:01:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:01:05] - Try connect to net service
+[20200506-18:01:07] - Connect to net service error: The operation has timed out.
+[20200506-18:01:07] - 
+[20200506-18:01:14] - 10000 ms elapsed.
+[20200506-18:01:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:01:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:01:15] - Ping host "" fail
+[20200506-18:01:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:01:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:01:15] - Try connect to net service
+[20200506-18:01:17] - Connect to net service error: The operation has timed out.
+[20200506-18:01:17] - 
+[20200506-18:01:24] - 10000 ms elapsed.
+[20200506-18:01:24] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:01:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:01:25] - Ping host "" fail
+[20200506-18:01:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:01:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:01:25] - Try connect to net service
+[20200506-18:01:27] - Connect to net service error: The operation has timed out.
+[20200506-18:01:27] - 
+[20200506-18:01:34] - 10000 ms elapsed.
+[20200506-18:01:34] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:01:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:01:35] - Ping host "" fail
+[20200506-18:01:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:01:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:01:35] - Try connect to net service
+[20200506-18:01:37] - Connect to net service error: The operation has timed out.
+[20200506-18:01:37] - 
+[20200506-18:01:44] - 10000 ms elapsed.
+[20200506-18:01:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:01:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:01:45] - Ping host "" fail
+[20200506-18:01:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:01:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:01:45] - Try connect to net service
+[20200506-18:01:47] - Connect to net service error: The operation has timed out.
+[20200506-18:01:47] - 
+[20200506-18:01:54] - 10000 ms elapsed.
+[20200506-18:01:54] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:01:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:01:55] - Ping host "" fail
+[20200506-18:01:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:01:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:01:55] - Try connect to net service
+[20200506-18:01:57] - Connect to net service error: The operation has timed out.
+[20200506-18:01:57] - 
+[20200506-18:02:04] - 10000 ms elapsed.
+[20200506-18:02:04] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:02:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:02:05] - Ping host "" fail
+[20200506-18:02:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:02:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:02:05] - Try connect to net service
+[20200506-18:02:07] - Connect to net service error: The operation has timed out.
+[20200506-18:02:07] - 
+[20200506-18:02:14] - 10000 ms elapsed.
+[20200506-18:02:14] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:02:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:02:15] - Ping host "" fail
+[20200506-18:02:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:02:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:02:15] - Try connect to net service
+[20200506-18:02:17] - Connect to net service error: The operation has timed out.
+[20200506-18:02:17] - 
+[20200506-18:02:24] - 10000 ms elapsed.
+[20200506-18:02:25] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:02:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:02:25] - Ping host "" fail
+[20200506-18:02:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:02:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:02:25] - Try connect to net service
+[20200506-18:02:27] - Connect to net service error: The operation has timed out.
+[20200506-18:02:27] - 
+[20200506-18:02:34] - 10000 ms elapsed.
+[20200506-18:02:35] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:02:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:02:35] - Ping host "" fail
+[20200506-18:02:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:02:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:02:35] - Try connect to net service
+[20200506-18:02:37] - Connect to net service error: The operation has timed out.
+[20200506-18:02:37] - 
+[20200506-18:02:44] - 10000 ms elapsed.
+[20200506-18:02:44] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:02:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:02:45] - Ping host "" fail
+[20200506-18:02:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:02:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:02:45] - Try connect to net service
+[20200506-18:02:47] - Connect to net service error: The operation has timed out.
+[20200506-18:02:47] - 
+[20200506-18:02:54] - 10000 ms elapsed.
+[20200506-18:02:55] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:02:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:02:55] - Ping host "" fail
+[20200506-18:02:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:02:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:02:55] - Try connect to net service
+[20200506-18:02:57] - Connect to net service error: The operation has timed out.
+[20200506-18:02:57] - 
+[20200506-18:03:04] - 10000 ms elapsed.
+[20200506-18:03:05] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:03:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:03:05] - Ping host "" fail
+[20200506-18:03:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:03:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:03:05] - Try connect to net service
+[20200506-18:03:07] - Connect to net service error: The operation has timed out.
+[20200506-18:03:07] - 
+[20200506-18:03:14] - 10000 ms elapsed.
+[20200506-18:03:15] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:03:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:03:15] - Ping host "" fail
+[20200506-18:03:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:03:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:03:15] - Try connect to net service
+[20200506-18:03:17] - Connect to net service error: The operation has timed out.
+[20200506-18:03:17] - 
+[20200506-18:03:24] - 10000 ms elapsed.
+[20200506-18:03:25] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:03:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:03:25] - Ping host "" fail
+[20200506-18:03:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:03:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:03:25] - Try connect to net service
+[20200506-18:03:27] - Connect to net service error: The operation has timed out.
+[20200506-18:03:27] - 
+[20200506-18:03:34] - 10000 ms elapsed.
+[20200506-18:03:35] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:03:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:03:35] - Ping host "" fail
+[20200506-18:03:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:03:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:03:35] - Try connect to net service
+[20200506-18:03:37] - Connect to net service error: The operation has timed out.
+[20200506-18:03:37] - 
+[20200506-18:03:44] - 10000 ms elapsed.
+[20200506-18:03:45] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:03:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:03:45] - Ping host "" fail
+[20200506-18:03:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:03:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:03:45] - Try connect to net service
+[20200506-18:03:47] - Connect to net service error: The operation has timed out.
+[20200506-18:03:47] - 
+[20200506-18:03:54] - 10000 ms elapsed.
+[20200506-18:03:55] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:03:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:03:55] - Ping host "" fail
+[20200506-18:03:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:03:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:03:55] - Try connect to net service
+[20200506-18:03:57] - Connect to net service error: The operation has timed out.
+[20200506-18:03:57] - 
+[20200506-18:04:04] - 10000 ms elapsed.
+[20200506-18:04:05] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:04:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:04:05] - Ping host "" fail
+[20200506-18:04:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:04:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:04:05] - Try connect to net service
+[20200506-18:04:07] - Connect to net service error: The operation has timed out.
+[20200506-18:04:07] - 
+[20200506-18:04:14] - 10000 ms elapsed.
+[20200506-18:04:15] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:04:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:04:15] - Ping host "" fail
+[20200506-18:04:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:04:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:04:15] - Try connect to net service
+[20200506-18:04:17] - Connect to net service error: The operation has timed out.
+[20200506-18:04:17] - 
+[20200506-18:04:24] - 10000 ms elapsed.
+[20200506-18:04:25] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:04:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:04:25] - Ping host "" fail
+[20200506-18:04:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:04:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:04:25] - Try connect to net service
+[20200506-18:04:27] - Connect to net service error: The operation has timed out.
+[20200506-18:04:27] - 
+[20200506-18:04:34] - 10000 ms elapsed.
+[20200506-18:04:35] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:04:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:04:35] - Ping host "" fail
+[20200506-18:04:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:04:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:04:35] - Try connect to net service
+[20200506-18:04:37] - Connect to net service error: The operation has timed out.
+[20200506-18:04:37] - 
+[20200506-18:04:45] - 10000 ms elapsed.
+[20200506-18:04:45] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:04:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:04:45] - Ping host "" fail
+[20200506-18:04:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:04:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:04:45] - Try connect to net service
+[20200506-18:04:47] - Connect to net service error: The operation has timed out.
+[20200506-18:04:47] - 
+[20200506-18:04:55] - 10000 ms elapsed.
+[20200506-18:04:55] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:04:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:04:55] - Ping host "" fail
+[20200506-18:04:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:04:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:04:55] - Try connect to net service
+[20200506-18:04:57] - Connect to net service error: The operation has timed out.
+[20200506-18:04:57] - 
+[20200506-18:05:05] - 10000 ms elapsed.
+[20200506-18:05:05] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:05:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:05:05] - Ping host "" fail
+[20200506-18:05:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:05:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:05:05] - Try connect to net service
+[20200506-18:05:07] - Connect to net service error: The operation has timed out.
+[20200506-18:05:07] - 
+[20200506-18:05:15] - 10000 ms elapsed.
+[20200506-18:05:15] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:05:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:05:15] - Ping host "" fail
+[20200506-18:05:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:05:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:05:15] - Try connect to net service
+[20200506-18:05:17] - Connect to net service error: The operation has timed out.
+[20200506-18:05:17] - 
+[20200506-18:05:25] - 10000 ms elapsed.
+[20200506-18:05:25] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:05:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:05:25] - Ping host "" fail
+[20200506-18:05:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:05:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:05:25] - Try connect to net service
+[20200506-18:05:27] - Connect to net service error: The operation has timed out.
+[20200506-18:05:27] - 
+[20200506-18:05:35] - 10000 ms elapsed.
+[20200506-18:05:35] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:05:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:05:35] - Ping host "" fail
+[20200506-18:05:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:05:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:05:35] - Try connect to net service
+[20200506-18:05:37] - Connect to net service error: The operation has timed out.
+[20200506-18:05:37] - 
+[20200506-18:05:45] - 10000 ms elapsed.
+[20200506-18:05:45] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:05:45] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:05:45] - Ping host "" fail
+[20200506-18:05:45] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:05:45] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:05:45] - Try connect to net service
+[20200506-18:05:47] - Connect to net service error: The operation has timed out.
+[20200506-18:05:47] - 
+[20200506-18:05:55] - 10000 ms elapsed.
+[20200506-18:05:55] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:05:55] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:05:55] - Ping host "" fail
+[20200506-18:05:55] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:05:55] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:05:55] - Try connect to net service
+[20200506-18:05:57] - Connect to net service error: The operation has timed out.
+[20200506-18:05:57] - 
+[20200506-18:06:05] - 10000 ms elapsed.
+[20200506-18:06:05] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:06:05] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:06:05] - Ping host "" fail
+[20200506-18:06:05] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:06:05] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:06:05] - Try connect to net service
+[20200506-18:06:07] - Connect to net service error: The operation has timed out.
+[20200506-18:06:07] - 
+[20200506-18:06:15] - 10000 ms elapsed.
+[20200506-18:06:15] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:06:15] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:06:15] - Ping host "" fail
+[20200506-18:06:15] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:06:15] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:06:15] - Try connect to net service
+[20200506-18:06:17] - Connect to net service error: The operation has timed out.
+[20200506-18:06:17] - 
+[20200506-18:06:25] - 10000 ms elapsed.
+[20200506-18:06:25] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:06:25] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:06:25] - Ping host "" fail
+[20200506-18:06:25] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:06:25] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:06:25] - Try connect to net service
+[20200506-18:06:27] - Connect to net service error: The operation has timed out.
+[20200506-18:06:27] - 
+[20200506-18:06:35] - 10000 ms elapsed.
+[20200506-18:06:35] - Check VPN connection status "vpn2.fortum.ru_2"
+[20200506-18:06:35] - VPN Connection "vpn2.fortum.ru_2" status: DOWN
+[20200506-18:06:35] - Ping host "" fail
+[20200506-18:06:35] - try to connect VPN: vpn2.fortum.ru_2
+[20200506-18:06:35] - Run (as NetworkService): rasdial.exe vpn2.fortum.ru_2   /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-18:06:35] - Try connect to net service
+[20200506-18:06:37] - Connect to net service error: The operation has timed out.
+[20200506-18:06:37] - 
+[20200506-18:06:42] - Service has been stopped.
+[20200506-19:01:57] - Service has been started
+[20200506-19:01:57] - Check interval not set. Use default value (ms): 10000
+[20200506-19:01:57] - Maximum log size not set. Use to default value (byte): 2000000
+[20200506-19:01:57] - CheckHost address not set! Computer not joined to domain. Set checkhost using parametr -checkhost
+[20200506-19:02:03] - Service has been started
+[20200506-19:02:03] - Check interval not set. Use default value (ms): 10000
+[20200506-19:02:03] - Maximum log size not set. Use to default value (byte): 2000000
+[20200506-19:02:03] - CheckHost address not set! Computer not joined to domain. Set checkhost using parametr -checkhost
+[20200506-19:02:07] - 10000 ms elapsed.
+[20200506-19:02:07] - Check VPN connection status ""
+[20200506-19:02:07] - VPN Connection "" status: DOWN
+[20200506-19:02:07] - Ping host "" fail
+[20200506-19:02:07] - try to connect VPN: 
+[20200506-19:02:07] - Run (as NetworkService): rasdial.exe    /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-19:02:07] - Try connect to net service
+[20200506-19:02:09] - Connect to net service error: The operation has timed out.
+[20200506-19:02:09] - 
+[20200506-19:02:10] - Service has been stopped.
+[20200506-19:02:13] - 10000 ms elapsed.
+[20200506-19:02:13] - Check VPN connection status ""
+[20200506-19:02:13] - VPN Connection "" status: DOWN
+[20200506-19:02:13] - Ping host "" fail
+[20200506-19:02:13] - try to connect VPN: 
+[20200506-19:02:13] - Run (as NetworkService): rasdial.exe    /phonebook:C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[20200506-19:02:13] - Try connect to net service
+[20200506-19:02:15] - Connect to net service error: The operation has timed out.
+[20200506-19:02:15] - 
+[20200506-19:02:15] - Service has been stopped.
+[20200506-20:06:09] - Service has been stopped.
