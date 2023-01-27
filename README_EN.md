@@ -1,19 +1,19 @@
 # AVPN-Service
 
-- Описание
-  - Служба для автоматического подключения VPN при старте компьютера, без участия пользователя. Создавалась как альтернатива DirectAcess для редакций Windows ниже Enterprise (DirectAcess на Professional) 
-- Установка сервиса
-  - Основной способ: ключ install
+- Description
+  - This is service for automatic connect VPN on boot. Without user interact. Make as alternative DirectAcess for Windows Professional edition and below.
+- Installation
+  - Base: use key install
     - AVPN.exe install -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt -netsrv true
-  - Средствами утилиты SC:
+  - Alternate, use utility SC:
     - sc create AVPN DisplayName="AVPN" binpath="c:\tmp\AVPN.exe -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt" start=auto
-- Формат файла с маршрутами
+- Route config exemple
   - ```
     [routes]
     10.1.1.0 255.255.255.0 10.1.3.1
     10.2.2.0 255.255.255.0 10.1.3.1
     ```
-- Параметры командной строки
+- Command line args:
   - install
     - Производит регистрацию службы в системе в том месте откуда был запущен исполняемый файл.
     - Всегда должен идти первым
