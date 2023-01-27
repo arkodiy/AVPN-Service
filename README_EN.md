@@ -4,9 +4,13 @@
   - This is service for automatic connect VPN on boot. Without user interact. Make as alternative DirectAcess for Windows Professional edition and below.
 - Installation
   - Base: use key install
-    - AVPN.exe install -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt -netsrv true
-  - Alternate, use utility SC:
-    - sc create AVPN DisplayName="AVPN" binpath="c:\tmp\AVPN.exe -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt" start=auto
+    - ```
+      AVPN.exe install -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt -netsrv true
+      ```
+  - Alternative, use utility SC:
+    - ```
+      sc create AVPN DisplayName="AVPN" binpath="c:\tmp\AVPN.exe -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt" start=auto
+      ```
 - Route config exemple:
   - ```
     [routes]
