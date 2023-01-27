@@ -7,13 +7,13 @@
     - AVPN.exe install -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt -netsrv true
   - Alternate, use utility SC:
     - sc create AVPN DisplayName="AVPN" binpath="c:\tmp\AVPN.exe -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt" start=auto
-- Route config exemple
+- Route config exemple:
   - ```
     [routes]
     10.1.1.0 255.255.255.0 10.1.3.1
     10.2.2.0 255.255.255.0 10.1.3.1
     ```
-- Command line args:
+- Command-line args:
   - install
     - Производит регистрацию службы в системе в том месте откуда был запущен исполняемый файл.
     - Всегда должен идти первым
