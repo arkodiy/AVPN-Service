@@ -1,7 +1,7 @@
 # AVPN-Service
 
 - Описание
-  - Служба для автоматического подключения VPN при старте компьютера, без участия пользователя.
+  - Служба для автоматического подключения VPN при старте компьютера, без участия пользователя. Создавалась как альтернатива DirectAcess для редакций Windows ниже Enterprise (DirectAcess на Professional) 
 - Установка сервиса
   - Основной способ: ключ install
     - AVPN.exe install -vpnname <connection_name> -checkhost <internal_host_to_check_network> -cfgurl http://config.youdomain.local/routes/routes.txt -netsrv true
